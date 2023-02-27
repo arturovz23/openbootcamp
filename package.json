@@ -1,0 +1,16 @@
+{
+  "name": "curso-js-openbootcamp",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript en open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "primer",
+    "proyectobootcamp"
+  ],
+  "author": "arturo valencia",
+  "license": "ISC"
+}
